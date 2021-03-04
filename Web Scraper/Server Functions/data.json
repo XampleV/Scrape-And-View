@@ -1,0 +1,46 @@
+[
+    "32\u00b0",
+    "Fair",
+    "NNW 6 mph",
+    "12 mph",
+    {
+        "time": "10 AM",
+        "temp": "33\u00b0",
+        "air_quality": "Fair",
+        "wind": "NNW 13 mph",
+        "wind_guhromets": "",
+        "wind_gusts": "21 mph"
+    },
+    {
+        "time": "11 AM",
+        "temp": "34\u00b0",
+        "air_quality": "Fair",
+        "wind": "NNW 14 mph",
+        "wind_guhromets": "",
+        "wind_gusts": "21 mph"
+    },
+    {
+        "time": "12 PM",
+        "temp": "34\u00b0",
+        "air_quality": "Fair",
+        "wind": "NNW 15 mph",
+        "wind_guhromets": "",
+        "wind_gusts": "21 mph"
+    },
+    {
+        "time": "1 PM",
+        "temp": "34\u00b0",
+        "air_quality": "Fair",
+        "wind": "NW 15 mph",
+        "wind_guhromets": "",
+        "wind_gusts": "20 mph"
+    },
+    {
+        "time": "2 PM",
+        "temp": "34\u00b0",
+        "air_quality": "Fair",
+        "wind": "NW 16 mph",
+        "wind_guhromets": "",
+        "wind_gusts": "20 mph"
+    }
+]
